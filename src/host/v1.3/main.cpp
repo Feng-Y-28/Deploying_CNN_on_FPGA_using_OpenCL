@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "CL/opencl.h"
+#include <CL/opencl.h>
 #include "AOCLUtils/aocl_utils.h"
 #include "squeezenet_params.h"
 #include "dog.h"
